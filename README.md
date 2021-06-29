@@ -1,4 +1,5 @@
 # Reuniões e Feedbacks - dti Desenvolve
 
-## Time
-- João
+## Grupo 01
+- João Benthin
+- Vitor Moreira Felix
